@@ -48,4 +48,4 @@
     <li><strong>Place Orders:</strong> Users can place orders for required medicines by selecting the quantity needed.</li>
   </ul>
   <h2>Mind Map</h2>
-  <img src="Mind Map.png"></img>
+  <img src="./MIND%20MAP.png"></img>
