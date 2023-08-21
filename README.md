@@ -45,7 +45,7 @@
   <p>Upon logging in as a USER, the following functions are available:</p>
   <ul>
     <li><strong>View Medicines:</strong> Users can view the available medicines in the stock along with their details, such as dosage and price.</li>
-    <li><strong>Place Orders:</strong> Users can place orders for required medicines by selecting the quantity needed.</li>
+    <li><strong>Place Orders And Generate Invoice:</strong> Users can place orders for required medicines by selecting the quantity needed.</li>
   </ul>
   <h2>Mind Map</h2>
   <img src="https://github.com/TejasJain03/Technical-Training-Pharma-Management/blob/main/MindMap.png"></img>
