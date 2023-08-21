@@ -49,3 +49,6 @@
   </ul>
   <h2>Mind Map</h2>
   <img src="https://github.com/TejasJain03/Technical-Training-Pharma-Management/blob/main/MindMap.png"></img>
+
+  <h2>Flowchart</h2>
+  
