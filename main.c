@@ -68,7 +68,7 @@ void deleteStock()
     printf("Enter medicine name to delete: ");
     scanf("%s", name);
 
-    int found = 0; 
+    int found = 0;
 
     temp = fopen("temp.txt", "wb");
     if (temp == NULL)
@@ -106,6 +106,10 @@ void deleteStock()
         if (rename("temp.txt", "medicine.txt") != 0)
         {
             printf("Error renaming temporary file.\n");
+        }
+        else
+        {
+            printf("Medicine deleted successfully.\n");
         }
     }
 }
