@@ -48,7 +48,7 @@
     <li><strong>Place Orders And Generate Invoice:</strong> Users can place orders for required medicines by selecting the quantity needed.</li>
   </ul>
   <h2>Mind Map</h2>
-  <img src="https://github.com/TejasJain03/Technical-Training-Pharma-Management/blob/main/MindMap.png"></img>
+  <img src="https://github.com/TejasJain03/Technical-Training-Pharma-Management/blob/main/MIND%20MAP.png"></img>
 
   <h2>Flowchart</h2>
   <img src="https://github.com/TejasJain03/Technical-Training-Pharma-Management/blob/main/Flowchart.png"></img>
